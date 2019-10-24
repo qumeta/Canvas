@@ -133,3 +133,7 @@ The following people are the maintainers of the Blazor Extensions projects:
 - [Attila Hajdrik](https://github.com/attilah)
 - [Gutemberg Ribiero](https://github.com/galvesribeiro)
 
+```js
+npm install --save-dev webpack
+dotnet new -i Microsoft.AspNetCore.Blazor.Templates::3.1.0-preview1.19508.20
+```

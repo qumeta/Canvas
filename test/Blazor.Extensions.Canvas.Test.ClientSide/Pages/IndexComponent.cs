@@ -19,6 +19,7 @@ namespace Blazor.Extensions.Canvas.Test.ClientSide.Pages
 
             await this._context.SetFontAsync("48px serif");
             await this._context.StrokeTextAsync("Hello Blazor!!!", 10, 100);
+            await Task.Delay(0);
         }
     }
 }
